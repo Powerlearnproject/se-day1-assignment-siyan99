@@ -22,13 +22,13 @@ Deployment: Distributing the software to the intended users.
 Maintenance: Addressing issues, adding new features, and making updates after deployment. 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
-
+Agile is best for dynamic teams that frequently change members throughout the project life cycle, or for teams that assign specific team members to multiple roles. Waterfall, on the other hand, works best for established teams and where each member is given a specific role
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
-
+software development team plans, creates, tests, and releases new software and modules. Each role must collaborate with others to ensure all tasks are completed according to stakeholders' expectations and released on time.
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
-
+An integrated development environment (IDE) is a software application that helps programmers develop software code efficiently. It increases developer productivity by combining capabilities such as software editing, building, testing, and packaging in an easy-to-use application
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 Communication 
@@ -68,3 +68,4 @@ Define prompt engineering and discuss its importance in interacting with AI mode
 Prompt engineering gives developers more control over users' interactions with the AI. Effective prompts provide intent and establish context to the large language models. They help the AI refine the output and present it concisely in the required format.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+Example: Poor Prompt: “Explain marketing strategies.” Better Prompt: “List and explain five digital marketing strategies used for e-commerce businesses.” By specifying “five strategies” and focusing on “e-commerce businesses”, the AI model generates more relevant and detailed responses.
